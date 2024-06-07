@@ -4,8 +4,9 @@
 > We make projects so people are able to have the privacy they deserve. We know you didn't have to come to us, so thank you for using Anon Service's suite.
 
 # Credits 
-> Anonoro
+> Anonoro, 
 > (perhaps you can be here?)
 > 
-# Code Utilization
+# Legal stuff
 > Go crazy, you are free to minipulate and features and code to your liking! 
+> We are not resposible for any disiplinary action taken toward you, use at your own risk.

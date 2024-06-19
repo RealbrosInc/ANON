@@ -5,15 +5,13 @@
 > We also update ANON almost every day!
 > 
 > **Important OS Stuff:**
-> 5
-> AI Assistant commands are as follows: Define (word), 
-> Open or Launch Applications [Open Shop, Open Notes] & [Launch Shop, Launch Notes], Home Screen [Go home, Close (app)]
+We are currently working on profiles & login procedures for the operating system. It should be finished by 7/19/2024. We are also working on UI updates and more applications for you to enjoy. Everything is currently functional but you may experience some issues with the voice assistant. We are working on fixing that issue ASAP. The voice assistant commands are these currently: Open / Launch Apps (Example: Open Launcher, Launch Notes), Home / Close (Close Notes, Go Home), & finally Define (Define Program). We are also working on more commands and should be finished by 7/19/2024 as well! Also expect a OOBE (Out of Box Experience) for first-time users.
 # Credits 
 > Thanks to Anonoro, 
 > (perhaps you can be here?)
 > 
 # Legal stuff
 > Go crazy, you are free to edit anything to your liking! 
-> We are not resposible for any disiplinary action taken toward you, use at your own risk.
+
 >
 > 
